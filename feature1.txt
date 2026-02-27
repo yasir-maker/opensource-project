@@ -1,2 +1,5 @@
 this is feature 1 branch file 
 feature branch updated by mohd-yasir3455
+
+
+solving the issue created by the yasir-maker and i forked his repo and then chnahing in the branch so other side i can see the change in pull request when i make chnage here 
